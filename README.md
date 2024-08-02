@@ -18,8 +18,8 @@ PetPal is an iOS application designed for pet enthusiasts. The app allows users 
 - **Reminders**: Set reminders for pet care activities like feeding, grooming, and vet appointments.
 
 ## Requirements
-- iOS 14.0 or later
-- Xcode 12.0 or later
+- iOS 17.4 or later
+- Xcode 14.0 or later
 - Swift 5.0 or later
 
 ## Usage
